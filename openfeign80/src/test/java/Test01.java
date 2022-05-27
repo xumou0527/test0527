@@ -6,7 +6,7 @@ public class Test01 {
 
     @Test
     void Test() {
-
+        System.out.println("111111111");
     }
 
     public static final String test="#\\n\\n version 7.1.070, Ess 6702\\n\\n#\\n\\nmdc Admin id 1\\n\\n#\\n\\n " +
